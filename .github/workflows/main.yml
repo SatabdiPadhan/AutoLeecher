@@ -1,0 +1,7 @@
+from apdbot.sample_con import Config
+
+class Config(Config):
+  BOT_TOKEN = "5398889724:AAGU_mrgQwHK0Sr_29biUb9_8QkyCAErRnc"
+  APP_ID = 16932411
+  API_HASH = "d4f3b368f6e90effb3241a3b64ab6934"
+  AUTH = [-1001194761218]
